@@ -13,7 +13,7 @@ words: I,You,He,She,It
 ---
 spring:
   profiles: verb
-words: luis,antonio,sergio
+words: loca,locazo,loquillo
 
 ---
 spring:
